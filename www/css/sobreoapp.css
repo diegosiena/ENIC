@@ -1,0 +1,15 @@
+#menu {
+    padding: 15px;
+}
+
+#menu p {
+    font-size: 16px;
+    margin: 0;
+}
+
+#contato {
+    font-size: 17px;    
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+}
